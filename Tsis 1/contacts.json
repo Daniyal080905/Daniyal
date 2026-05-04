@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Daniyal",
+        "email": "daniyal@gmail.com",
+        "birthday": "2008-09-08",
+        "date_added": "2026-04-29 23:18:20.973002",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "87054553830",
+                "type": "mobile"
+            },
+            {
+                "phone": "87770001122",
+                "type": "work"
+            }
+        ]
+    },
+    {
+        "name": "Aruzhan",
+        "email": "aruzhan@mail.com",
+        "birthday": "2004-04-12",
+        "date_added": "2026-04-29 23:18:20.973002",
+        "group": "Family",
+        "phones": [
+            {
+                "phone": "87771234567",
+                "type": "mobile"
+            }
+        ]
+    }
+]
